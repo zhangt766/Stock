@@ -31,3 +31,7 @@
 
 ### 2.4 Visualization platform
 - https://klinecharts.com
+
+## 0ur Docs
+- Notion  https://www.notion.so/STOCK-b2ec2b2365024ddca696c35757a0bbfa
+- Colab   https://colab.research.google.com/drive/1NLO67YIBohC2DLcoBG-tqg2-zSK2NIFN?usp=sharing
